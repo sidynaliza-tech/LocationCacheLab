@@ -21,3 +21,5 @@
 
 ## Інструкція із запуску проєкту
 1. Склонуйте репозиторій на свій локальний комп'ютер:
+```bash
+   git clone [https://github.com/sidynaliza-tech/LocationCacheLab.git](https://github.com/sidynaliza-tech/LocationCacheLab.git)
